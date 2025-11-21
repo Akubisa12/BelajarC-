@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\04.TipeData\bin\Debug\net9.0\04.TipeData.exe
+E:\Kampus\BelajarC#\04.TipeData\bin\Debug\net9.0\04.TipeData.deps.json
+E:\Kampus\BelajarC#\04.TipeData\bin\Debug\net9.0\04.TipeData.runtimeconfig.json
+E:\Kampus\BelajarC#\04.TipeData\bin\Debug\net9.0\04.TipeData.dll
+E:\Kampus\BelajarC#\04.TipeData\bin\Debug\net9.0\04.TipeData.pdb
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\04.TipeData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\04.TipeData.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\04.TipeData.AssemblyInfo.cs
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\04.TipeData.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\04.TipeData.dll
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\refint\04.TipeData.dll
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\04.TipeData.pdb
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\04.TipeData.genruntimeconfig.cache
+E:\Kampus\BelajarC#\04.TipeData\obj\Debug\net9.0\ref\04.TipeData.dll

@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\05.Operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\05.Operator.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\05.Operator.AssemblyInfo.cs
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\05.Operator.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\05.Operator\bin\Debug\net9.0\05.Operator.exe
+E:\Kampus\BelajarC#\05.Operator\bin\Debug\net9.0\05.Operator.deps.json
+E:\Kampus\BelajarC#\05.Operator\bin\Debug\net9.0\05.Operator.runtimeconfig.json
+E:\Kampus\BelajarC#\05.Operator\bin\Debug\net9.0\05.Operator.dll
+E:\Kampus\BelajarC#\05.Operator\bin\Debug\net9.0\05.Operator.pdb
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\05.Operator.dll
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\refint\05.Operator.dll
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\05.Operator.pdb
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\05.Operator.genruntimeconfig.cache
+E:\Kampus\BelajarC#\05.Operator\obj\Debug\net9.0\ref\05.Operator.dll

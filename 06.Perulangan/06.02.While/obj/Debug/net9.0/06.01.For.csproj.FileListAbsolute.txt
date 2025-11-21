@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\bin\Debug\net9.0\06.01.For.exe
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\bin\Debug\net9.0\06.01.For.deps.json
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\bin\Debug\net9.0\06.01.For.runtimeconfig.json
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\bin\Debug\net9.0\06.01.For.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\bin\Debug\net9.0\06.01.For.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\06.01.For.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\06.01.For.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\06.01.For.AssemblyInfo.cs
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\06.01.For.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\06.01.For.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\refint\06.01.For.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\06.01.For.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\06.01.For.genruntimeconfig.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.02.While\obj\Debug\net9.0\ref\06.01.For.dll

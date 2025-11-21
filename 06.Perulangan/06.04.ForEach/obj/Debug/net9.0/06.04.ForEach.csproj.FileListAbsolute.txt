@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\bin\Debug\net9.0\06.04.ForEach.exe
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\bin\Debug\net9.0\06.04.ForEach.deps.json
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\bin\Debug\net9.0\06.04.ForEach.runtimeconfig.json
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\bin\Debug\net9.0\06.04.ForEach.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\bin\Debug\net9.0\06.04.ForEach.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\06.04.ForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\06.04.ForEach.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\06.04.ForEach.AssemblyInfo.cs
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\06.04.ForEach.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\06.04.ForEach.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\refint\06.04.ForEach.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\06.04.ForEach.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\06.04.ForEach.genruntimeconfig.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.04.ForEach\obj\Debug\net9.0\ref\06.04.ForEach.dll

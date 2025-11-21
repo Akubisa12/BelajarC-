@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\bin\Debug\net9.0\06.05.PerulanganBersarang.exe
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\bin\Debug\net9.0\06.05.PerulanganBersarang.deps.json
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\bin\Debug\net9.0\06.05.PerulanganBersarang.runtimeconfig.json
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\bin\Debug\net9.0\06.05.PerulanganBersarang.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\bin\Debug\net9.0\06.05.PerulanganBersarang.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\06.05.PerulanganBersarang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\06.05.PerulanganBersarang.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\06.05.PerulanganBersarang.AssemblyInfo.cs
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\06.05.PerulanganBersarang.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\06.05.PerulanganBersarang.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\refint\06.05.PerulanganBersarang.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\06.05.PerulanganBersarang.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\06.05.PerulanganBersarang.genruntimeconfig.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.05.PerulanganBersarang\obj\Debug\net9.0\ref\06.05.PerulanganBersarang.dll

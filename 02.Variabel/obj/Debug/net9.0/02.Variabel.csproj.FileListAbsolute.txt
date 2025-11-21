@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\02.Variabel\bin\Debug\net9.0\02.Variabel.exe
+E:\Kampus\BelajarC#\02.Variabel\bin\Debug\net9.0\02.Variabel.deps.json
+E:\Kampus\BelajarC#\02.Variabel\bin\Debug\net9.0\02.Variabel.runtimeconfig.json
+E:\Kampus\BelajarC#\02.Variabel\bin\Debug\net9.0\02.Variabel.dll
+E:\Kampus\BelajarC#\02.Variabel\bin\Debug\net9.0\02.Variabel.pdb
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\02.Variabel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\02.Variabel.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\02.Variabel.AssemblyInfo.cs
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\02.Variabel.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\02.Variabel.dll
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\refint\02.Variabel.dll
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\02.Variabel.pdb
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\02.Variabel.genruntimeconfig.cache
+E:\Kampus\BelajarC#\02.Variabel\obj\Debug\net9.0\ref\02.Variabel.dll

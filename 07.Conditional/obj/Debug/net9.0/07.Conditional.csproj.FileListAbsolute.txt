@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\07.Conditional\bin\Debug\net9.0\07.Conditional.exe
+E:\Kampus\BelajarC#\07.Conditional\bin\Debug\net9.0\07.Conditional.deps.json
+E:\Kampus\BelajarC#\07.Conditional\bin\Debug\net9.0\07.Conditional.runtimeconfig.json
+E:\Kampus\BelajarC#\07.Conditional\bin\Debug\net9.0\07.Conditional.dll
+E:\Kampus\BelajarC#\07.Conditional\bin\Debug\net9.0\07.Conditional.pdb
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\07.Conditional.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\07.Conditional.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\07.Conditional.AssemblyInfo.cs
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\07.Conditional.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\07.Conditional.dll
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\refint\07.Conditional.dll
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\07.Conditional.pdb
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\07.Conditional.genruntimeconfig.cache
+E:\Kampus\BelajarC#\07.Conditional\obj\Debug\net9.0\ref\07.Conditional.dll

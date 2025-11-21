@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\01HelloWorld\bin\Debug\net9.0\01HelloWorld.exe
+E:\Kampus\BelajarC#\01HelloWorld\bin\Debug\net9.0\01HelloWorld.deps.json
+E:\Kampus\BelajarC#\01HelloWorld\bin\Debug\net9.0\01HelloWorld.runtimeconfig.json
+E:\Kampus\BelajarC#\01HelloWorld\bin\Debug\net9.0\01HelloWorld.dll
+E:\Kampus\BelajarC#\01HelloWorld\bin\Debug\net9.0\01HelloWorld.pdb
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\01HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\01HelloWorld.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\01HelloWorld.AssemblyInfo.cs
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\01HelloWorld.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\01HelloWorld.dll
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\refint\01HelloWorld.dll
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\01HelloWorld.pdb
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\01HelloWorld.genruntimeconfig.cache
+E:\Kampus\BelajarC#\01HelloWorld\obj\Debug\net9.0\ref\01HelloWorld.dll

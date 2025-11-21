@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.AssemblyInfo.cs
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\09.Function\bin\Debug\net9.0\09.Function.exe
+E:\Kampus\BelajarC#\09.Function\bin\Debug\net9.0\09.Function.deps.json
+E:\Kampus\BelajarC#\09.Function\bin\Debug\net9.0\09.Function.runtimeconfig.json
+E:\Kampus\BelajarC#\09.Function\bin\Debug\net9.0\09.Function.dll
+E:\Kampus\BelajarC#\09.Function\bin\Debug\net9.0\09.Function.pdb
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.dll
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\refint\09.Function.dll
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.pdb
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.genruntimeconfig.cache
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\ref\09.Function.dll

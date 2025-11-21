@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\bin\Debug\net9.0\06.03.DoWhile.exe
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\bin\Debug\net9.0\06.03.DoWhile.deps.json
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\bin\Debug\net9.0\06.03.DoWhile.runtimeconfig.json
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\bin\Debug\net9.0\06.03.DoWhile.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\bin\Debug\net9.0\06.03.DoWhile.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\06.03.DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\06.03.DoWhile.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\06.03.DoWhile.AssemblyInfo.cs
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\06.03.DoWhile.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\06.03.DoWhile.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\refint\06.03.DoWhile.dll
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\06.03.DoWhile.pdb
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\06.03.DoWhile.genruntimeconfig.cache
+E:\Kampus\BelajarC#\06.Perulangan\06.03.DoWhile\obj\Debug\net9.0\ref\06.03.DoWhile.dll

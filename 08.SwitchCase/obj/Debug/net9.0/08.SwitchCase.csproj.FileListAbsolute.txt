@@ -1,0 +1,14 @@
+E:\Kampus\BelajarC#\08.SwitchCase\bin\Debug\net9.0\08.SwitchCase.exe
+E:\Kampus\BelajarC#\08.SwitchCase\bin\Debug\net9.0\08.SwitchCase.deps.json
+E:\Kampus\BelajarC#\08.SwitchCase\bin\Debug\net9.0\08.SwitchCase.runtimeconfig.json
+E:\Kampus\BelajarC#\08.SwitchCase\bin\Debug\net9.0\08.SwitchCase.dll
+E:\Kampus\BelajarC#\08.SwitchCase\bin\Debug\net9.0\08.SwitchCase.pdb
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\08.SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\08.SwitchCase.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\08.SwitchCase.AssemblyInfo.cs
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\08.SwitchCase.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\08.SwitchCase.dll
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\refint\08.SwitchCase.dll
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\08.SwitchCase.pdb
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\08.SwitchCase.genruntimeconfig.cache
+E:\Kampus\BelajarC#\08.SwitchCase\obj\Debug\net9.0\ref\08.SwitchCase.dll
