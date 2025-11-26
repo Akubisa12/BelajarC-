@@ -1,0 +1,15 @@
+E:\Kampus\BelajarC#\12.Belajar01\bin\Debug\net9.0\12.Belajar01.exe
+E:\Kampus\BelajarC#\12.Belajar01\bin\Debug\net9.0\12.Belajar01.deps.json
+E:\Kampus\BelajarC#\12.Belajar01\bin\Debug\net9.0\12.Belajar01.runtimeconfig.json
+E:\Kampus\BelajarC#\12.Belajar01\bin\Debug\net9.0\12.Belajar01.dll
+E:\Kampus\BelajarC#\12.Belajar01\bin\Debug\net9.0\12.Belajar01.pdb
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.AssemblyInfo.cs
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.sourcelink.json
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.dll
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\refint\12.Belajar01.dll
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.pdb
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\12.Belajar01.genruntimeconfig.cache
+E:\Kampus\BelajarC#\12.Belajar01\obj\Debug\net9.0\ref\12.Belajar01.dll

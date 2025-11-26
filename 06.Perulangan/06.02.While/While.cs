@@ -10,6 +10,10 @@
 // Contoh sederhana
 // case : kita ingin meminta pengguna memasukkan kata sandi. Kita akan terus meminta selama sandi  yang dimasukkan salah ("12345")
 
+// Algoritma :
+// 1. kita bikin dulu tempat buat menampung sandinya 
+// 2. ulang
+
 string kataSandi = "";
 while (kataSandi != "12345")
 {
