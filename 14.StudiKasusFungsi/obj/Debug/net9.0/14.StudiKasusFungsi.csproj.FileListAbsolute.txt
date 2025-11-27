@@ -1,0 +1,15 @@
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\bin\Debug\net9.0\14.StudiKasusFungsi.exe
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\bin\Debug\net9.0\14.StudiKasusFungsi.deps.json
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\bin\Debug\net9.0\14.StudiKasusFungsi.runtimeconfig.json
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\bin\Debug\net9.0\14.StudiKasusFungsi.dll
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\bin\Debug\net9.0\14.StudiKasusFungsi.pdb
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.AssemblyInfo.cs
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.sourcelink.json
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.dll
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\refint\14.StudiKasusFungsi.dll
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.pdb
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\14.StudiKasusFungsi.genruntimeconfig.cache
+E:\Kampus\BelajarC#\14.StudiKasusFungsi\obj\Debug\net9.0\ref\14.StudiKasusFungsi.dll

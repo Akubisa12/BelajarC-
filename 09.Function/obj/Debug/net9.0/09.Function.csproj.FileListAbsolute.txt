@@ -12,3 +12,4 @@ E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\refint\09.Function.dll
 E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.pdb
 E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.genruntimeconfig.cache
 E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\ref\09.Function.dll
+E:\Kampus\BelajarC#\09.Function\obj\Debug\net9.0\09.Function.sourcelink.json
