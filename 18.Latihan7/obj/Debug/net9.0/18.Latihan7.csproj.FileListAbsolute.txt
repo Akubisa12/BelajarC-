@@ -1,0 +1,15 @@
+E:\Kampus\BelajarC#\18.Latihan7\bin\Debug\net9.0\18.Latihan7.exe
+E:\Kampus\BelajarC#\18.Latihan7\bin\Debug\net9.0\18.Latihan7.deps.json
+E:\Kampus\BelajarC#\18.Latihan7\bin\Debug\net9.0\18.Latihan7.runtimeconfig.json
+E:\Kampus\BelajarC#\18.Latihan7\bin\Debug\net9.0\18.Latihan7.dll
+E:\Kampus\BelajarC#\18.Latihan7\bin\Debug\net9.0\18.Latihan7.pdb
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.AssemblyInfoInputs.cache
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.AssemblyInfo.cs
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.csproj.CoreCompileInputs.cache
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.sourcelink.json
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.dll
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\refint\18.Latihan7.dll
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.pdb
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\18.Latihan7.genruntimeconfig.cache
+E:\Kampus\BelajarC#\18.Latihan7\obj\Debug\net9.0\ref\18.Latihan7.dll
