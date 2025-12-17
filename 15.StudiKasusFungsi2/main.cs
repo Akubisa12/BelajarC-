@@ -19,6 +19,7 @@ namespace BelajarFungsi{
 
             Console.ReadLine();
         }
+
         static double HitungLuas(double panjang, double lebar){
             return panjang * lebar;
         }
