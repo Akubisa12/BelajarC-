@@ -1,4 +1,7 @@
-/*
+using System;
+
+class Program {
+    /*
 SOAL :
 Buatlah method/fungsi yang :
 1. Menerima sebuah array bilangan bulat 
@@ -13,25 +16,16 @@ Sample tests :
 [TestCase(new int[]{}, ExpectedResult=0)]
 [TestCase(new int[]{-1, -2, -3, -4, -5}, ExpectedResult=0)]
 */
-public static class Kata
-{
-    public static int PositiveSum(int[] arr)
+    public static void Main(int[] arr)
     {
-        // 1. Inisialisasi variabel untuk menampung total penjumlahan
-        int sum = 0;
-
-        // 2. Lakukan perulangan untuk setiap elemen di dalam array
-        foreach (int number in arr)
+        int nilaiTotal = 0;
+        foreach (int nilai in arr)
         {
-            // 3. Periksa apakah bilangan bernilai positif
-            if (number > 0)
+            if (nilai > 0)
             {
-                // 4. Jika positif, tambahkan ke total sum
-                sum += number;
+                nilai += nilaiTotal;
             }
         }
-
-        // 5. Kembalikan hasil penjumlahan bilangan positif
-        return sum;
+        return nilaiTotal;
     }
 }
