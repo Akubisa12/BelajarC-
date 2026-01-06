@@ -13,7 +13,6 @@ namespace HelloWorld
       // Write tanpa enter
       Console.Write("Jessen");
       Console.Write("Jessen");
-      
     }
   }
 }
